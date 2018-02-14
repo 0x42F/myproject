@@ -59,8 +59,7 @@ namespace ConsoleServerTCP_soket {
                     handler.Shutdown(SocketShutdown.Both);
                     handler.Close();
                 }
-
-
+                
             }catch(Exception ex) {
                 Console.WriteLine(ex.Message);
             } finally {
