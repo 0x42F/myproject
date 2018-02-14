@@ -1,0 +1,7 @@
+E:\C#\Network\SoketApp\ConsoleServerTCP_soket\ConsoleServerTCP_soket\bin\Debug\ConsoleServerTCP_soket.exe.config
+E:\C#\Network\SoketApp\ConsoleServerTCP_soket\ConsoleServerTCP_soket\bin\Debug\ConsoleServerTCP_soket.exe
+E:\C#\Network\SoketApp\ConsoleServerTCP_soket\ConsoleServerTCP_soket\bin\Debug\ConsoleServerTCP_soket.pdb
+E:\C#\Network\SoketApp\ConsoleServerTCP_soket\ConsoleServerTCP_soket\obj\Debug\ConsoleServerTCP_soket.csprojResolveAssemblyReference.cache
+E:\C#\Network\SoketApp\ConsoleServerTCP_soket\ConsoleServerTCP_soket\obj\Debug\ConsoleServerTCP_soket.csproj.CoreCompileInputs.cache
+E:\C#\Network\SoketApp\ConsoleServerTCP_soket\ConsoleServerTCP_soket\obj\Debug\ConsoleServerTCP_soket.exe
+E:\C#\Network\SoketApp\ConsoleServerTCP_soket\ConsoleServerTCP_soket\obj\Debug\ConsoleServerTCP_soket.pdb
