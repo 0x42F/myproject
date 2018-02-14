@@ -60,7 +60,7 @@ namespace ConsoleClientTCP_soket {
             // Освобождаем сокет
             sender.Shutdown(SocketShutdown.Both);
             sender.Close();
-//comit
+
         }
     }
 }
