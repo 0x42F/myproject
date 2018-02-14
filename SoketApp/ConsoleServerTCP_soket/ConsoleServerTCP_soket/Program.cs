@@ -55,7 +55,6 @@ namespace ConsoleServerTCP_soket {
                         Console.WriteLine("Сервер завершил соединение с клиентом.");
                         break;
                     }
-
                     handler.Shutdown(SocketShutdown.Both);
                     handler.Close();
                 }
@@ -65,7 +64,6 @@ namespace ConsoleServerTCP_soket {
             } finally {
                 Console.ReadLine();
             }
-
             Console.ReadKey();
         }
     }
