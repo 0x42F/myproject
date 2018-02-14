@@ -66,9 +66,6 @@ namespace ConsoleServerTCP_soket {
                 Console.ReadLine();
             }
 
-         
-            
-            
             Console.ReadKey();
         }
     }
