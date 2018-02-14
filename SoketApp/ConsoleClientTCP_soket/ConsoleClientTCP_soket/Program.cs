@@ -61,10 +61,6 @@ namespace ConsoleClientTCP_soket {
             sender.Shutdown(SocketShutdown.Both);
             sender.Close();
 
-
         }
-
-
-
     }
 }
